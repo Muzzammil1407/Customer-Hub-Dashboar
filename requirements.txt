@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+google-generativeai
+openpyxl
+lxml
+pdfplumber
